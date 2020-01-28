@@ -7,7 +7,7 @@ from collections import Counter
 mydb = mysql.connector.connect(
 	host="localhost",
 	user="root",
-	passwd="Oralepues123",
+	passwd="",
 	database="student"
 )
 
